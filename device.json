@@ -1,0 +1,22 @@
+{
+  "VID": 10007,
+  "PID": 12985,
+  "USAGE_BUTTONS": {
+    "32": "POWER",
+    "64": "ASSIST",
+    "1": "OK",
+    "2": "UP",
+    "4": "DOWN",
+    "8": "LEFT",
+    "16": "RIGHT",
+    "512": "MENU",
+    "1024": "NETFLIX",
+    "8192": "PRIME_VIDEO",
+    "128": "VOL_UP",
+    "256": "VOL_DOWN"
+  },
+  "MASK_BUTTONS": {
+    "8": "BACK",
+    "4": "HOME"
+  }
+}

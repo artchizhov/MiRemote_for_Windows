@@ -1,0 +1,9 @@
+{
+  "base_step_cursor": 1,
+  "max_step_cursor": 40,
+  "base_step_scroll": 1,
+  "max_step_scroll": 20,
+  "accel_time": 0.03,
+  "scroll_accel_delay": 2,
+  "scroll_delay": 0.06
+}
